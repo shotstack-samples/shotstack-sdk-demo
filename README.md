@@ -1,8 +1,12 @@
 # Shotstack Studio SDK Demo Application
 
+![Screenshot](screenshot.png)
+
 ## Introduction
 
 This demo application showcases the capabilities of the Shotstack Studio SDK, allowing users to integrate advanced video editing features directly into web applications. The application demonstrates a basic use case of the Shotstack Studio SDK, enabling users to preview and edit video content dynamically within a web interface.
+
+[Visit demo](https://demo.shotstack.io/studio-sdk/)
 
 ## Notice
 
